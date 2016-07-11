@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\gider\Documents\GitHub\AndroidStudioProjects\JustJava\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e20ed3553f7d39343e759ce7e09914d2905bebb3">
+        <dex dex="C:\Users\gider\Documents\GitHub\AndroidStudioProjects\JustJava\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d5b43719cdf6cf69b44ee9d35b82733f59ad6b86\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\gider\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.0.0\2943c74db6d4346ab8c6531adac91fa05c137c40\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\gider\Documents\GitHub\AndroidStudioProjects\JustJava\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_8a69f27dee7b1be7230710a46688813555285178\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\gider\Documents\GitHub\AndroidStudioProjects\JustJava\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\gider\Documents\GitHub\AndroidStudioProjects\JustJava\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_9735579078a9feaade31f81c0f06f2f77835a8b6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\gider\Documents\GitHub\AndroidStudioProjects\JustJava\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\Users\gider\Documents\GitHub\AndroidStudioProjects\JustJava\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0_bf7be62593d75296848b124f90658bc294c8fb48\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\gider\Documents\GitHub\AndroidStudioProjects\JustJava\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="cc42fb024f1430c41bd8bb540d49f8ebc26be20f">
+        <dex dex="C:\Users\gider\Documents\GitHub\AndroidStudioProjects\JustJava\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_62f1644489118afd4e3922e197067eb148b5e894\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\gider\Documents\GitHub\AndroidStudioProjects\JustJava\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\Users\gider\Documents\GitHub\AndroidStudioProjects\JustJava\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0_e6965cd0f6f8527c011f118b79b8842b0d8fe4c3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\gider\Documents\GitHub\AndroidStudioProjects\JustJava\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\gider\Documents\GitHub\AndroidStudioProjects\JustJava\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_3ea873000958ec6460ae336162f0982c0a5fafb1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\gider\Documents\GitHub\AndroidStudioProjects\JustJava\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\Users\gider\Documents\GitHub\AndroidStudioProjects\JustJava\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0_858d4e46c3a3fe79ed6856eb24c7cf49c4e4c71e\classes.dex" />
+    </item>
+
+</items>
